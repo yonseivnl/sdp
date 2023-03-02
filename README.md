@@ -1,7 +1,7 @@
 # The Official Implementation of SDP(Scheduled Data Prior)
 
 **Online Boundary-Free Continual Learning by Scheduled Data Prior**<br>
-Hyunseo Koh, Minhyuk Seo, Jihwan Bang, HWanjun Song, Deokki Hong, Seulki Park, Jung-Woo Ha, Jonghyun Choi<br>
+Hyunseo Koh, Minhyuk Seo, Jihwan Bang, Hwanjun Song, Deokki Hong, Seulki Park, Jung-Woo Ha, Jonghyun Choi<br>
 ICLR 2023<br>
 
 ## Overview
