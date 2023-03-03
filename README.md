@@ -1,4 +1,4 @@
-# The Official Implementation of SDP (Scheduled Data Prior)
+# The Official Implementation of SDP (Scheduled Data Prior) (ICLR 2023)
 
 **Online Boundary-Free Continual Learning by Scheduled Data Prior**<br>
 Hyunseo Koh, Minhyuk Seo, Jihwan Bang, Hwanjun Song, Deokki Hong, Seulki Park, Jung-Woo Ha, Jonghyun Choi<br>
